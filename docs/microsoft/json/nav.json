@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Microsoft Logins",
+    "folder": "login/",
+    "items": [
+      {
+        "name": "Office Login",
+        "url": "office-login.html"
+      },
+      {
+        "name": "Teams Login",
+        "url": "teams-login.html"
+      }
+    ]
+  }
+]

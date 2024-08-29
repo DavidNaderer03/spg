@@ -12,5 +12,25 @@
         "url": "teams-login.html"
       }
     ]
+  },
+  {
+    "name": "Tools",
+    "folder": "tools/",
+    "items": [
+      {
+        "name": "Teams",
+        "folder": "teams/",
+        "items": [
+          {
+            "name": "File handling",
+            "url": "teams-file-handling.html"
+          }
+        ]
+      },
+      {
+        "name": "Sharepoint",
+        "url": "sharepoint-description.html"
+      }
+    ]
   }
 ]

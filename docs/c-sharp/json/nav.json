@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Basics",
+    "folder": "basics/",
+    "items": [
+      {
+        "name": "Variables",
+        "url": "variable.html"
+      }
+    ]
+  },
+  {
+    "name": "Types",
+    "folder": "types/",
+    "items": [
+      {
+        "name": "String",
+        "url": "string.html"
+      }
+    ]
+  }
+]

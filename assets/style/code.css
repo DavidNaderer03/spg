@@ -1,0 +1,14 @@
+@import "theme.css";
+
+.code-block {
+    padding: 1rem;
+    background-color: var(--bg-select);
+    border-radius: 15px;
+    width: fit-content;
+    margin-left: 1rem;
+}
+
+.code-block:hover::after {
+    content: url("../images/clipboard.svg");
+    display: flex;
+}
